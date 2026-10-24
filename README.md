@@ -9,7 +9,18 @@
   · Windows 10/11 · Miễn phí · Tự cập nhật
 </p>
 
-![Màn Hôm nay](docs/hom-nay.png)
+<table>
+  <tr>
+    <td width="50%"><img src="docs/hom-nay.png" alt="Màn Hôm nay"><br><b>Hôm nay</b> · buổi đang học, lịch trong ngày, hạn nộp sắp tới</td>
+    <td width="50%"><img src="docs/tuan.png" alt="Màn Tuần"><br><b>Tuần</b> · cả tuần trên một lưới, buổi đổi lịch tô đỏ</td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/deadline.png" alt="Màn Deadline"><br><b>Deadline</b> · nhóm theo quá hạn, hôm nay, 3 ngày tới</td>
+    <td width="50%"><img src="docs/cai-dat.png" alt="Màn Cài đặt thông báo"><br><b>Cài đặt thông báo</b> · tự quét lịch, chọn mốc nhắc</td>
+  </tr>
+</table>
+
+<p align="center"><sub>Ảnh minh hoạ dùng dữ liệu giả.</sub></p>
 
 ## App làm được gì
 
