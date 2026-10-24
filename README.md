@@ -12,11 +12,11 @@
 <table>
   <tr>
     <td width="50%"><img src="docs/hom-nay.png" alt="Màn Hôm nay"><br><b>Hôm nay</b>: buổi đang học, lịch trong ngày, hạn nộp sắp tới</td>
-    <td width="50%"><img src="docs/tuan.png" alt="Màn Tuần"><br><b>Tuần</b>: cả tuần trên một lưới, buổi đổi lịch tô đỏ</td>
+    <td width="50%"><img src="docs/tuan.png" alt="Màn Tuần"><br><b>Lịch tuần</b>: cả tuần trên một lưới, buổi đổi lịch viền đỏ</td>
   </tr>
   <tr>
-    <td width="50%"><img src="docs/deadline.png" alt="Màn Deadline"><br><b>Deadline</b>: nhóm theo mức gấp, trạng thái nộp bài</td>
-    <td width="50%"><img src="docs/cai-dat.png" alt="Màn Cài đặt thông báo"><br><b>Cài đặt thông báo</b>: tự quét lịch, chọn mốc nhắc</td>
+    <td width="50%"><img src="docs/deadline.png" alt="Màn Deadline"><br><b>Deadline</b>: quá hạn, 24 giờ tới, 3 ngày tới, tick đã xong</td>
+    <td width="50%"><img src="docs/cai-dat.png" alt="Màn Cài đặt thông báo"><br><b>Cài đặt & Nhật ký</b>: giờ im lặng, mốc nhắc, lịch gửi</td>
   </tr>
 </table>
 
