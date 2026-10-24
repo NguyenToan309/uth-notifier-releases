@@ -44,7 +44,7 @@ App chạy nền dưới khay hệ thống và tự đồng bộ mỗi 20 phút.
 1. **Tải** [`UTH_Notifier.exe`](https://github.com/NguyenToan309/uth-notifier-releases/releases/latest/download/UTH_Notifier.exe) và đặt trong thư mục cá nhân, ví dụ `Documents` (không đặt trong `Program Files`).
 2. **Mở file.** Nếu Windows báo *"Windows protected your PC"*, chọn **More info → Run anyway**.
 3. **Đăng nhập** theo banner trong app:
-   - **Course**: nhập tài khoản `courses.ut.edu.vn` một lần (trong app ghi là *Moodle*).
+   - **Course**: nhập tài khoản `courses.ut.edu.vn` một lần.
    - **Portal**: app mở cửa sổ Portal, bạn tự đăng nhập và giải CAPTCHA. Khi phiên hết hạn, app sẽ nhắc bạn đăng nhập lại.
 
 Xong. App có sẵn mốc nhắc mặc định: **30 phút** trước giờ học; **1 ngày, 3 giờ, 1 giờ** trước hạn nộp. Bạn đổi được trong *Cài đặt thông báo*.
