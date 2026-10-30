@@ -10,67 +10,79 @@ Trợ lý xem lịch học, hạn nộp bài tập và sắp xếp lịch cá nh
 
 ## 🎯 Vì sao cần UTH Notifier?
 - Quên phòng học hoặc nhầm lẫn cơ sở di chuyển giữa các ngày học lý thuyết và thực hành.
-- Trễ hạn nộp bài tập trên Moodle vì lịch thi và deadline nằm rải rác ở nhiều nơi.
-- Khó sắp xếp và cân bằng giữa lịch học của trường với lịch cá nhân như học thêm, làm thêm hay họp nhóm.
+- Trễ hạn nộp bài tập trên Moodle vì lịch thi và deadline nằm rải rác ở nhiều hệ thống khác nhau.
+- Khó sắp xếp và cân bằng giữa lịch học chính khóa với lịch cá nhân như học thêm, làm thêm hay họp nhóm.
 
 ## ✨ Tính năng nổi bật
 
 ### Trên máy tính Windows
-- **Hôm nay:** Buổi học tiếp theo hiển thị rõ giờ, phòng, cơ sở, giảng viên kèm đồng hồ đếm ngược; lịch trong ngày được chia rõ theo buổi Sáng, Chiều, Tối.
-- **Lịch tuần:** Hiển thị lịch học và lịch cá nhân trên cùng một bảng, dễ dàng kéo thả để dời lịch cá nhân và tự động báo khi hai lịch trùng giờ nhau.
-- **Deadline và việc cần làm:** Gom bài tập trên Moodle và việc cá nhân vào chung một bảng, phân loại theo mức độ gấp (quá hạn, dưới 24 giờ, trong 3 ngày, sắp tới).
-- **Thêm lịch bằng một câu nói:** Nhập câu ngắn có dấu hoặc không dấu (ví dụ: "họp nhóm thứ 5 7h tối ở thư viện"), ứng dụng cho bạn xem trước chi tiết rồi mới lưu.
-- **Báo đổi lịch tự động:** Nhận thông báo khi trường đổi phòng, báo nghỉ hoặc thêm lịch học bù; ứng dụng tự động gợi ý các khung giờ trống nếu bị trùng lịch cá nhân.
-- **Nhắc lịch thông minh:** Nhắc nhở trước giờ vào lớp và trước hạn nộp bài, tích hợp khung giờ im lặng ban đêm để không làm phiền giấc ngủ của bạn.
-- **Xem thông tin môn học:** Tra cứu nhanh số điện thoại, email của giảng viên và liên kết tham gia nhóm Zalo lớp học phần ngay trong chi tiết môn.
+- **Hôm nay:** Buổi học tiếp theo hiển thị nổi bật với giờ, phòng, cơ sở, giảng viên kèm đồng hồ đếm ngược; các ca trong ngày được chia rõ theo buổi Sáng, Chiều, Tối.
+- **Lịch chung (Lịch tuần):** Hiển thị lịch học của trường và sự kiện cá nhân trên cùng một bảng; tự động chia đôi cột 50/50 và cảnh báo khi hai lịch diễn ra cùng khung giờ.
+- **Màn hình Lịch cá nhân:** Không gian riêng biệt để quản lý lịch hẹn, học nhóm, làm thêm với 4 bộ lọc tiện lợi (Tất cả, Sự kiện, Nhiệm vụ, Đã xong).
+- **Deadline và việc cần làm:** Gom bài tập Moodle và việc cá nhân vào chung một bảng phân loại theo mức độ gấp (quá hạn, dưới 24 giờ, trong 3 ngày, sắp tới) kèm nút hoàn tác nếu lỡ thao tác nhầm.
+- **Thêm lịch bằng một câu nói:** Nhập câu ngắn có dấu hoặc không dấu (ví dụ: "họp nhóm thứ 5 7h tối ở thư viện"), ứng dụng hiển thị nhãn xem trước thông minh rồi mới lưu.
+- **Gợi ý khung giờ trống tránh trùng lịch:** Khi lịch cá nhân trùng với ca học chính quy, ứng dụng tự động phân tích và đề xuất 3 khung giờ trống gần nhất để bạn đổi giờ chỉ bằng một cú nhấp.
+- **Báo đổi lịch và nhắc nhở thông minh:** Nhận thông báo tức thì khi trường đổi phòng, dời ca hoặc báo nghỉ; nhắc trước giờ học và trước hạn nộp bài kèm giờ im lặng ban đêm.
+- **Xem thông tin môn học:** Tra cứu nhanh số điện thoại, email của giảng viên và đường dẫn tham gia nhóm Zalo lớp học phần ngay trong chi tiết môn.
 
-### Trên Zalo (Chat riêng 1-1)
-- **Bản tin mỗi sáng:** Tự động gửi tin nhắn tóm tắt lịch học và các hạn nộp trong ngày vào mỗi buổi sáng giúp bạn chủ động thời gian.
-- **Thêm lịch bằng tin nhắn:** Nhắn tin câu lệnh tự nhiên trong khung chat riêng để lưu nhanh lịch hẹn hoặc việc cần làm mọi lúc, mọi nơi.
+### Trên Zalo (Trợ lý nhắn tin 1-1)
+- **Đăng nhập trực tiếp 3 hệ thống:** Gõ lệnh `/login` kèm mã số sinh viên và mật khẩu để đăng nhập cùng lúc cả 3 trang Portal, Course Moodle và cổng Tin học - Ngoại ngữ (THNN) mà không cần mở trình duyệt web.
+- **Bản tin mỗi sáng lúc 06:30:** Tự động gửi tin nhắn tóm tắt lịch học và các hạn nộp trong ngày vào mỗi buổi sáng giúp bạn luôn chủ động thời gian.
+- **Thêm lịch bằng tin nhắn:** Nhắn tin tự nhiên trong khung chat riêng để lưu nhanh lịch hẹn hoặc việc cần làm mọi lúc, mọi nơi.
 - **Tra cứu lịch tức thì:** Xem nhanh thời khóa biểu hôm nay, lịch cả tuần, danh sách bài tập và lịch cá nhân ngay trên điện thoại.
-- **Hỗ trợ hoàn tác:** Dễ dàng khôi phục lại dữ liệu nếu bạn lỡ tay xóa nhầm lịch hoặc bấm nhầm hoàn thành việc.
+- **Đồng bộ hai chiều:** Dữ liệu cá nhân được đồng bộ tức thì giữa ứng dụng trên máy tính và trợ lý Zalo.
+- **Hỗ trợ hoàn tác:** Dễ dàng khôi phục lại dữ liệu nếu bạn lỡ tay xóa nhầm lịch hoặc bấm nhầm hoàn thành việc bằng lệnh `hoantac`.
 
 ## 🖼️ Ảnh chụp màn hình
 
-| Màn hình | Minh họa giao diện |
+| Màn hình | Minh họa giao diện thực tế |
 |---|---|
 | Hôm nay | ![Màn hình Hôm nay](docs/images/today.png) |
-| Lịch tuần | ![Màn hình Lịch tuần](docs/images/week.png) |
+| Lịch chung (Tuần) | ![Màn hình Lịch chung](docs/images/week.png) |
+| Lịch cá nhân | ![Màn hình Lịch cá nhân](docs/images/personal.png) |
 | Deadline & Việc cần làm | ![Màn hình Deadline](docs/images/deadlines.png) |
-| Thêm nhanh lịch | ![Màn hình Thêm nhanh](docs/images/quick_add.png) |
-| Trợ lý Zalo | ![Trợ lý Zalo](docs/images/zalo.png) |
+| Thêm nhanh & Tránh trùng lịch | ![Màn hình Thêm nhanh](docs/images/quick_add.png) |
+| Trợ lý Zalo Bot 1-1 | ![Trợ lý Zalo](docs/images/zalo.png) |
 
 ## 🚀 Bắt đầu nhanh
 - **Bước 1:** Tải ứng dụng về máy tính từ [LINK TẢI VỀ](https://github.com/NguyenToan309/uth-notifier-releases/releases/latest/download/UTH_Notifier.exe) và mở lên để sử dụng ngay mà không cần cài đặt.
-- **Bước 2:** Đăng nhập bằng tài khoản sinh viên UTH của bạn để ứng dụng tự động tải về lịch học và hạn nộp bài tập.
-- **Bước 3 (Tùy chọn):** Tìm kiếm [TÊN ZALO OA] trên Zalo và nhắn tin riêng để nhận thông báo nhắc lịch hàng ngày trên điện thoại.
+- **Bước 2:** Đăng nhập bằng tài khoản sinh viên UTH của bạn để ứng dụng tự động kết nối và tải về dữ liệu từ cả 3 hệ thống (Portal, Course, THNN).
+- **Bước 3 (Tùy chọn):** Kết nối với [TÊN ZALO OA] trên Zalo bằng cách nhắn `/login <MSSV> <Mật khẩu>` để nhận thông báo và nhắc lịch hàng ngày trực tiếp trên điện thoại.
 
 ## 💬 Ví dụ câu lệnh trên Zalo
-Bạn có thể nhắn tin trực tiếp với Bot trong khung chat 1-1 bằng các câu lệnh đơn giản sau:
+Bạn có thể nhắn tin trực tiếp với Trợ lý Zalo trong khung chat riêng 1-1 bằng các câu lệnh đơn giản sau:
 
 ```text
+/login 07520600xxxx MatKhau123
 /tkb
 /tuan
 /deadline
 /them họp nhóm thứ 5 7h tối ở thư viện
 /lichcanhan
+/xong 1
+/xoa 2
+hoantac
+/logout
 ```
 
 ## 🔒 Quyền riêng tư & An toàn
-- **Không lưu mật khẩu:** Ứng dụng chỉ sử dụng thông tin của bạn một lần để xác thực rồi hủy ngay, hoàn toàn không lưu trữ mật khẩu của bạn.
-- **Lịch cá nhân nằm trên máy bạn:** Mọi sự kiện và việc cần làm cá nhân mặc định chỉ được lưu trữ an toàn trên chính máy tính của bạn.
-- **Toàn quyền xóa dữ liệu:** Bạn có thể xóa sạch toàn bộ dữ liệu của mình bất cứ lúc nào (trên Zalo, chỉ cần gửi tin nhắn `/logout`).
+- **Không lưu mật khẩu:** Ứng dụng và Trợ lý Zalo chỉ sử dụng thông tin tài khoản của bạn để xác thực với trường rồi hủy ngay, hoàn toàn không lưu trữ mật khẩu sinh viên.
+- **Lịch cá nhân nằm trên máy bạn:** Mọi sự kiện và việc cần làm cá nhân mặc định chỉ nằm trên thiết bị của bạn; dữ liệu đồng bộ với Zalo được bảo mật riêng biệt cho từng sinh viên.
+- **Toàn quyền xóa sạch dữ liệu:** Bạn có thể đăng xuất và xóa vĩnh viễn toàn bộ dữ liệu của mình bất cứ lúc nào (trên Zalo, chỉ cần gửi tin nhắn `/logout`).
 
 ## ❓ Câu hỏi thường gặp
 
 **Ứng dụng có mất phí không?**  
-Hoàn toàn miễn phí. UTH Notifier được tạo ra phi lợi nhuận nhằm hỗ trợ các bạn sinh viên UTH học tập thuận tiện hơn.
+Hoàn toàn miễn phí. UTH Notifier là công cụ hỗ trợ phi lợi nhuận dành riêng cho sinh viên UTH.
 
-**Ứng dụng có dùng được trên máy Mac hoặc điện thoại không?**  
-Bản ứng dụng máy tính hiện tại dành riêng cho Windows. Trên điện thoại (Android, iPhone) hoặc máy tính Mac, bạn có thể sử dụng đầy đủ các tính năng thông qua trợ lý Zalo.
+**Tôi có cần phải mở web để đăng nhập không?**  
+Không cần. Bạn có thể đăng nhập trực tiếp trên Zalo Bot bằng câu lệnh `/login` hoặc đăng nhập ngay trên ứng dụng máy tính một cách nhanh chóng.
+
+**Ứng dụng có dùng được trên điện thoại hoặc máy Mac không?**  
+Bản ứng dụng cửa sổ hiện tại dành riêng cho máy tính Windows. Trên điện thoại (Android, iOS) hoặc máy tính Mac, bạn có thể sử dụng đầy đủ các tính năng thông qua Trợ lý Zalo.
 
 **Tôi có thể đổi giờ nhắc lịch ở đâu?**  
-Trên máy tính, bạn bấm vào mục Cài đặt để điều chỉnh số phút nhắc trước giờ học. Trên Zalo, bạn gửi tin nhắn `/setting` để tùy chỉnh thời gian nhắc theo mong muốn.
+Trên máy tính, bạn bấm vào mục Cài đặt để điều chỉnh số phút nhắc trước giờ học hoặc hạn nộp. Trên Zalo, bạn gửi tin nhắn `/setting` để tùy chỉnh thời gian nhắc.
 
 **Nếu thấy dữ liệu lịch học hoặc bài tập chưa đúng thì làm gì?**  
 Trên máy tính, bạn bấm nút "Đồng bộ" (hoặc nhấn phím tắt Ctrl+R) để cập nhật dữ liệu mới nhất từ trường. Trên Zalo, bạn chỉ cần gửi tin nhắn `/sync`.
